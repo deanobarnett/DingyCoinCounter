@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: DingyCoinCounter
+## Version: 0.1
+## Author: Deano
+## Notes: Helper to count the number of coins collected for the rogue Weekly.
+
+DingyCoinCounter.lua
